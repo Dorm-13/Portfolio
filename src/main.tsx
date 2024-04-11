@@ -5,7 +5,7 @@ import "./index.css";
 import { ThemeProvider } from "@/providers/theme-provider";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
-  <ThemeProvider>
+  <ThemeProvider defaultTheme="light" storageKey="timeless-portfolio-ui-theme">
     <App />
   </ThemeProvider>,
 );
