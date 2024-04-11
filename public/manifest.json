@@ -1,0 +1,23 @@
+{
+    "name": "Timeless Technologies Inc.",
+    "short_name": "Timeless Technologies Inc.",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "description": "Timeless Technologies Inc. is a startup based on Mek'ele, Ethiopia.",
+    "icons": [
+      {
+        "src": "logo.png",
+        "sizes": "821x378",
+        "type": "image/png"
+      },
+      {
+        "src": "logo.png",
+        "sizes": "821x378",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+  }
+  
