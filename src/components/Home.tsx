@@ -16,7 +16,7 @@ import ProfileIMG from "@/assets/logo.jpg";
 export const Home = () => (
   <Element
     name="Home"
-    className="mt-4 grid h-full place-content-center bg-inherit p-4"
+    className="mt-8 grid h-full place-content-center bg-inherit p-4"
   >
     <div className="mx-auto max-w-screen-lg">
       <section className="grid grid-cols-3 gap-8">
