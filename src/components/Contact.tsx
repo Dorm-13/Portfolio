@@ -4,10 +4,10 @@ import { Element } from "react-scroll";
 import contacts from "@/constants/contacts";
 
 export const Contact = () => (
-  <Element name="Contact" className="bg-secondary px-4 py-16">
+  <Element name="Contact" className="bg-background px-4 py-16">
     <section className="mx-auto max-w-screen-lg space-y-8">
       <header className="text-center text-xl font-semibold underline underline-offset-4 md:text-2xl">
-        Contact <span className="italic text-primary">Us</span>
+        Contact <span className="text-primary">Us</span>
       </header>
       <h1 className="text-2xl font-semibold md:text-3xl">
         Don't be shy! contact us!

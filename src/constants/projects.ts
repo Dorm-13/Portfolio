@@ -2,6 +2,7 @@ import HDMovieIMG from "@/assets/HDMovie.gif";
 import SmartTaxiIMG from "@/assets/SmartTaxi.png";
 import HospitalIMG from "@/assets/Hospital.png";
 import EcommerceIMG from "@/assets/eccomerce.gif";
+import SeldiIMG from "@/assets/seldi.png";
 
 export default [
   {
@@ -28,5 +29,11 @@ export default [
     image: EcommerceIMG,
     github_link: "https://github.com/alulamoke/Abyssinia-Ecommerce",
     demo_link: "http://16.171.133.142/",
+  },
+  {
+    title: "Seldi",
+    desc: "Welcome to Seldi, the ultimate resource for everything about mobile wallets! Discover how our cutting-edge mobile wallet technology can simplify your financial transactions, enhance security, and provide seamless integration with your daily life. Explore our features, user guides, and the latest updates to stay ahead in the world of digital payments. Join us to experience a smarter, more convenient way to manage your money on the go.",
+    image: SeldiIMG,
+    github_link: "https://github.com/Dorm-13/Seldi-Website",
   },
 ];

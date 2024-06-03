@@ -19,7 +19,7 @@ export const Navbar = () => {
   const [activeLink, setActiveLink] = useState("Home");
 
   return (
-    <header className="fixed top-0 z-50 h-16 w-full border-b bg-background shadow-sm">
+    <header className="fixed top-0 z-50 h-16 w-full border-b bg-background/70 backdrop-blur-md">
       <nav className="mx-auto flex h-full max-w-screen-xl items-center justify-between gap-4">
         <img
           src={ProfileIMG}
